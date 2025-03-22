@@ -1,2 +1,5 @@
 # Ignore save versioning
 *.blend[0-9]*
+
+# Ignore backup files
+*.*~
